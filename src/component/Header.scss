@@ -1,0 +1,32 @@
+.header_wrapper{
+    background:#f67428;
+    max-width: 550px;
+    margin: auto;
+    height: 500px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    position: relative;
+    .chat_bot{
+        padding: 50px 80px;
+        text-align: left;
+        
+        h1{
+            font-size: 41px;
+            line-height: 16px;
+            color:inherit;
+            margin-bottom: 35px;  
+        }
+        h2{
+            font-size: 31px;
+            color: inherit;
+            margin-bottom: 25px;  
+        }
+        p{
+            font-size: 25px;
+            color: inherit;
+            width: 90%;
+        }
+    }
+}
